@@ -1,4 +1,4 @@
-**Hello Everyone**
+# Movie-Quiz
 
 This is a Quiz Game CLI app which is the assignment for the NeoGcamp lesson 01. This is a game with 2 levels. As I am a beginner I have tried to put my best in it. This app is hosted on replit.com. Anyone can play this game by simply going to the link: https://replit.com/@SurajRai4/movie-quiz?embed=1&output=1#index.js
 
@@ -6,7 +6,7 @@ I am providing the answers for the questions in the game so that it would be eas
 
 The questions are mentioned below:
 
- Level 1: Hollywood Movies
+## Level 1: Hollywood Movies
 
          1. question:"What are the dying words of Charles Foster Kane in Citizen Kane? ",
             answer:"Rosebud"
@@ -28,7 +28,7 @@ The questions are mentioned below:
            answer:"Red"
       
 
- Level 2: Bollywood Classics
+ ## Level 2: Bollywood Classics
 
         1. question:"Sholay's popular Dialogue was: Kutte kamine, main tera________pi   jaunga. ",
            answer:"Khoon"
