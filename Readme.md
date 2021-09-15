@@ -1,6 +1,7 @@
 # Movie-Quiz
 
-This is a Quiz Game CLI app which is the assignment for the NeoGcamp lesson 01. This is a game with 2 levels. As I am a beginner I have tried to put my best in it. This app is hosted on replit.com. Anyone can play this game by simply going to the link: https://replit.com/@SurajRai4/movie-quiz?embed=1&output=1#index.js
+This is a Quiz Game CLI app which is the assignment for the NeoGcamp lesson 01. This is a game with 2 levels. As I am a beginner I have tried to put my best in it. This app is hosted on replit.com. 
+## [Click to play](https://replit.com/@SurajRai4/movie-quiz?embed=1&output=1#index.js)
 
 I am providing the answers for the questions in the game so that it would be easier to examine how the app is working and if the app is in obeying the code.
 
