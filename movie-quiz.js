@@ -19,12 +19,6 @@ var numberOfCorrectAnswers=0
 var highestScore=0
 var index=0;
 
-// var start=readlineSync.question(chalk.blueBright("Are you ready for the Movie-Quiz?? 'Y' or 'N' "))
-// console.log(" ")
-
-// start= start.toLowerCase()
-
-// if(start=="yes" || start=="y")
 if(readlineSync.keyInYN("Are you ready for the movie quiz??"))
 {   console.log(" ")
     var playerName=readlineSync.question(chalk.cyan("Please enter your name: "))
