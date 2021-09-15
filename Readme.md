@@ -1,7 +1,7 @@
 # Movie-Quiz
 
 This is a Movie-Quiz Game CLI app written in Javascript. This game has 2 levels. Once the a player answers all the answers correct then he/she is promoted to level 2.
-## [Click to play](https://replit.com/@SurajRai4/movie-quiz?embed=1&output=1#index.js)
+### [Click to play](https://replit.com/@SurajRai4/movie-quiz?embed=1&output=1#index.js)
 
 I am providing the answers for the questions in the game so that it would be easier to examine how the app is working and if the app is in obeying the code.
 
@@ -50,5 +50,9 @@ The questions are mentioned below:
         5. question:'Who played "Anarkali" in Mughal-e-Azam? ',
            answer:"Madhubala"
       
-
+## Screenshots
+![movie-quiz-in-action](./media/movie-quiz-1.png)
+![movie-quiz-in-action](./media/movie-quiz-2.png)
+![movie-quiz-in-action](./media/movie-quiz-3.png)
+![movie-quiz-in-action](./media/movie-quiz-4.png)
 
